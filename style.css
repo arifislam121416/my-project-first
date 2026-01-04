@@ -1,0 +1,17 @@
+.h1{
+    text-align:center;
+    color:red;
+    background-color:green;
+    text-decoration: solid;
+    margin: 5px;
+    border:10px;
+    text-shadow: 5px;
+}
+.p1{
+    background-color:aqua;
+    text-align:center;
+    color:yellow;
+    margin: 10px;
+    border:10px;
+    
+}
