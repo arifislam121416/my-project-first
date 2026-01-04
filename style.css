@@ -3,8 +3,8 @@
     color:red;
     background-color:green;
     text-decoration: solid;
-    margin: 5px;
-    border:10px;
+    margin: 3px;
+    border:5px double white;
     text-shadow: 5px;
 }
 .p1{
@@ -12,6 +12,39 @@
     text-align:center;
     color:yellow;
     margin: 10px;
-    border:10px;
-    
+    border:3px solid black;
+
+}
+#h2{
+    color:black;
+    border:10px solid red;
+    margin:10px;
+    padding:5px;
+    background-color:blue;
+    text-align:center;
+}
+header{
+    background-image:url(image/6.JPG);
+    background-position:top;
+    /* background-size: cover; */
+    width:1200px;
+    height:1000px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    color:red;
+    border: 10px solid black;
+    padding:5px;
+}
+.hh1{
+    border:5px solid yellow;
+    padding:3px;
+    background-color:black;
+}
+#f{
+    background-color:dimgray;
+    text-align:center;
+}
+*{
+    background-color: lightseagreen;
 }
